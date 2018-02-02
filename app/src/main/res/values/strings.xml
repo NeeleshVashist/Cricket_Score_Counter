@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cricket Score Counter</string>
+    <string name="teama">Team A</string>
+    <string name="teamb">Team B</string>
+    <string name="runs">runs</string>
+    <string name="wickets">wickets</string>
+    <string name="overs">overs</string>
+    <string name="zero">0</string>
+    <string name="p6">+6</string>
+    <string name="p4">+4</string>
+    <string name="p3">+3</string>
+    <string name="p2">+2</string>
+    <string name="p1">+1</string>
+    <string name="out">out</string>
+    <string name="reset">reset</string>
+    <string name="over">over</string>
+</resources>
